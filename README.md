@@ -1,2 +1,2 @@
 # android1_devesh
-basic android api having name,username,password
+basic android app having name,username,password
